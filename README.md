@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @LucasDeSouzaVieira9
+**- 👋 Oi, eu sou @LucasDeSouzaVieira9
 - 🌱 Estudando Flutter/Dart
 
 
@@ -9,3 +9,4 @@
 LucasDeSouzaVieira9/LucasDeSouzaVieira9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+**
